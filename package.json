@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "ice-cream-project-2023",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Arinagar.github.io/power-rangers-project",
+  "homepage": "https://AntonVitulskyi.github.io/ice-cream-project-2023",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /power-rangers-project/"
+    "build": "parcel build src/*.html --public-url /ice-cream-project-2023/"
   },
   "repository": {
     "type": "git",
